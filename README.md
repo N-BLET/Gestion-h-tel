@@ -1,5 +1,5 @@
 # Gestion_Hotel
-Logiciel de gestion des résevations de chambres.
+Petit programme de gestion des résevations de chambres.
 Premier projet java pour apprendre à gérer les tableaux, les boucles et les conditions.
 L'étude de cas se portait sur la gestion d'une chambre d'hôtel.
 
